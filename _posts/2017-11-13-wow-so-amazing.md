@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "学员感想 | 哇！好有趣的一群灵魂！"
-image: "assets/images/500.jpg"
+title:  "书中宇宙！"
+image: "assets/images/2.jpg"
 featured: true
 ---
 
